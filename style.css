@@ -39,3 +39,7 @@ h2 {
 .specific {
     background-image: url(specific.png.png);
 }
+
+body {
+    color: hotpink;
+}
