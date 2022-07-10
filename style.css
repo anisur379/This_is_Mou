@@ -42,7 +42,6 @@ h2 {
 
 body {
     color: hotpink;
-    background-color: darkblue;
 }
 
 p {
@@ -50,13 +49,15 @@ p {
     font-size: 30px;
 }
 
-a {
-    padding: 20px 40px;
-    border-radius: 5px;
-}
-
 .something {
     text-decoration: none;
-    background-color: orange;
+    color: orange;
+
+}
+
+.nughty {
+    text-decoration: none;
+    color: red;
+    font-size: 30px;
 
 }
