@@ -50,9 +50,15 @@ p {
 }
 
 .something {
-    text-decoration: none;
     color: orange;
 
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: darkblue;
+    padding: 20px 40px;
+    border-radius: 5px;
 }
 
 .nughty {
